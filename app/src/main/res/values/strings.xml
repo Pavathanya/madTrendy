@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Trendy</string>
+
+    <string name="textView1">Find the Best</string>
+    <string name="text2">Discover the least trends in women fashion and explore your personality</string>
+    <string name="button1">Get Started</string>
+
+    <string name="login">Login</string>
+    <string name="i2">UserName</string>
+    <string name="t3">Password</string>
+    <string name="btn_3">Login</string>
+    <string name="signin">Sign in</string>
+
+    <string name="textView9">Sign Up</string>
+    <string name="ii2">Name</string>
+    <string name="text33">Phone Number</string>
+    <string name="text44">Mail Address</string>
+    <string name="text55">Password</string>
+    <string name="btn_33">Sign in</string>
+
+    <string name="textView4">Hello,Bava</string>
+    <string name="textView7">Find your trent \\n here!</string>
+    <string name="editTextText">Search</string>
+    <string name="textView16">Favourite</string>
+    <string name="text14">Message</string>
+    <string name="text13">location</string>
+    <string name="textView19">Home</string>
+    <string name="text12">Add to card</string>
+    <string name="text11">Settings</string>
+    <string name="textView10">Profile</string>
+
+
+    <string name="textView1234">ADD CARD</string>
+    <string name="text10">Hoodie</string>
+    <string name="text111">Rs:3000</string>
+    <string name="textView111">Tshirt</string>
+    <string name="text11111">Rs:2000</string>
+
+    <string name="payment">Jeans</string>
+    <string name="Jeans">Jeans</string>
+    <string name="Rs">Rs:4500</string>
+    <string name="textView44">Add to Card</string>
+    <string name="paynow">Pay Now</string>
+
+    <string name="profile">Profile</string>
+    <string name="Bava">Bava</string>
+    <string name="Mail">pavathanyamano@gmail.com</string>
+    <string name="Notification">Notification</string>
+    <string name="Calendar">Calendar</string>
+    <string name="Share">Share</string>
+    <string name="Card">Card</string>
+    <string name="logout">log out</string>
+    <string name="PaymentMethod">" Payment Method"</string>
+    <string name="CardNumber">Card Number</string>
+    <string name="Exp">Exp</string>
+    <string name="CVV">CVV</string>
+    <string name="name">Name of the Card</string>
+    <string name="paynoww">Pay Now</string>
+
+
+</resources>
